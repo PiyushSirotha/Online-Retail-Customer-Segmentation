@@ -1,10 +1,13 @@
 # -Online-Retail-Customer-Segmentation
-Unsupervised Machine Learning Algorithm
-###**Bussiness Problem -**
+
+##**Unsupervised Machine Learning Algorithm**
+
+##**Bussiness Problem -**
 
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
-**Data Description -**
+##**Data Description -**
+
 * InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
 * StockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product.
 * Description: Product (item) name.
@@ -14,12 +17,13 @@ In this project, your task is to identify major customer segments on a transnati
 * CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 * Country: Country name. Nominal, the name of the country where each customer resides.
 
-###**Steps performed -**
+##**Steps performed -**
+
 *Importing the libraries
 * Exploratory Data Analysis - EDA
 * splitting of the data :-
 * RFM (Recency, Frequency, and Monetary) dataframe helps in solving problems in a particular order, making it easy to recommend and display new products to selected customers.
-###**Modelling -**
+##**Modelling -**
 
 * K-Means with Silhouette_score
 
@@ -29,7 +33,8 @@ In this project, your task is to identify major customer segments on a transnati
 
 * DBSCAN
 
-###**Conclusion**
+##**Conclusion**
+
 * The majority of customers, at 88.92%, are from the United Kingdom. Other significant customer groups include Germany (2.30%), France (2.12%), Eire (1.84%), and Spain (0.63%). The remaining customers come from countries such as the Netherlands, Belgium, Switzerland, Portugal, and Australia.
 
 
