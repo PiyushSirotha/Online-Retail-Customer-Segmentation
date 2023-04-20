@@ -19,7 +19,7 @@ In this project, your task is to identify major customer segments on a transnati
 
 ## **Steps performed -**
 
-*Importing the libraries
+* Importing the libraries
 * Exploratory Data Analysis - EDA
 * splitting of the data :-
 * RFM (Recency, Frequency, and Monetary) dataframe helps in solving problems in a particular order, making it easy to recommend and display new products to selected customers.
